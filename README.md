@@ -166,3 +166,4 @@ npm run start
 ## 📄 License
 MIT License. Built for students, developers, and educators worldwide.
 "# Student-chat-bot" 
+"# student-chat-bot" 
